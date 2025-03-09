@@ -26,13 +26,13 @@ The **Gemini Clone** is an advanced AI-powered web application that replicates t
 ## Installation & Setup
 ### Prerequisites:
 Ensure you have the following installed:
-- Node.js (v16+ recommended)
+- React.js
 - npm or yarn
 
 ### Steps:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/gemini-clone.git
+   git clone https://github.com/Pradesh101/gemini-clone.git
    cd gemini-clone
    ```
 2. Install dependencies:
@@ -47,11 +47,11 @@ Ensure you have the following installed:
      ```
 4. Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 5. Open your browser and visit:
    ```sh
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## Deployment
